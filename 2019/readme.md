@@ -20,4 +20,3 @@ Lista de proyectos:
 
 - [Riobaria](https://github.com/Riobaria/storytelling)
 
-- [MelomanoBot](https://github.com/filipdlp/MelomanobotR3/storytelling)
